@@ -10,7 +10,7 @@
   4. java(待补充)  
   5. [算法](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)(待完善)
 
-###工作职位
+##工作职位：
   0. [拉勾网](http://lagou.com)(比较杂)
   1. [腾讯前端](http://www.v2ex.com/t/177291)
   2. [豆瓣](http://site.douban.com/Jobs/widget/notes/2238024/note/487490364/)(中国好公司, 多岗位)
