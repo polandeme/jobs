@@ -1,6 +1,8 @@
 # 2016jobs
-一起建设  
 2016实习，2017工作  
+
+###新增直接发起pr即可  
+
 ##工作准备：  
 ###面试题目：   
   0. [各个方向](http://www.nowcoder.com/contestRoom)
